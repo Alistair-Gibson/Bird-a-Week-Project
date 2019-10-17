@@ -12,3 +12,13 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-description {
+  max-width: 30em;
+}
