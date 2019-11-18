@@ -4,6 +4,8 @@ import bluetit from "./images/bluetit.png";
 import robin from "./images/robin.png";
 import unkownred from "./images/unkownred.png";
 import nuthatch from "./images/nuthatch.png";
+import redwingedblackbird from "./images/redwingedblackbird.png";
+import mountainbluebird from "./images/mountainbluebird.png";
 
 const Card = props => {
   return (
