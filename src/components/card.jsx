@@ -9,7 +9,7 @@ import mountainbluebird from "./images/mountainbluebird.png";
 
 const Card = props => {
   return (
-    <div className="tc dib br3 pa3 ma2 grow bw2 shadow-5">
+    <div className="tc dib br3 pa3 ma2 grow bw2 shadow-5 card">
       <img alt="birds" src={require(`./images/${props.picture}.png`)} />
       <div className="card-text">
         <h2>{props.title}</h2>
